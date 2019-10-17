@@ -1,0 +1,12 @@
+{
+  "money_test.py::test_add_different_currencies": true,
+  "money_test.py::test_add_money": true,
+  "money_test.py::test_dinar_to_str": true,
+  "money_test.py::test_div_money": true,
+  "money_test.py::test_dollars_to_str": true,
+  "money_test.py::test_money_equality": true,
+  "money_test.py::test_money_inequality": true,
+  "money_test.py::test_mul_money": true,
+  "money_test.py::test_sub_different_currencies": true,
+  "money_test.py::test_sub_money": true
+}
